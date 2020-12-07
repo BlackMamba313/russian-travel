@@ -1,4 +1,5 @@
 .cover__title {
+    padding-top: 245px;
     display: block;
     width: 560px;
     font-weight: 900;
@@ -10,14 +11,22 @@
     margin: 0 auto 32px auto;
 }
 
+@media screen and (max-width:1024px){
+    .cover__title {
+        padding-top: 195px;
+    }
+}
+
 @media screen and (max-width:768px){
     .cover__title {
+        padding-top: 115px;
         width: 72.9vw;
     }
 }
 
 @media screen and (max-width:320px) {
     .cover__title {
+        padding-top: 33px;
         font-size: 32px;
         line-height: 35px;
     }

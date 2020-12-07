@@ -11,12 +11,12 @@
 
 @media screen and (max-width:768px) {
     .lead {
-        width: 100vw;
+        width: 100%;
     }
 }
 
 @media screen and (max-width:320px) {
     .lead {
-        width: 100vw;
+        width: 100%;
     }
 }

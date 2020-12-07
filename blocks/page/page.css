@@ -1,9 +1,8 @@
+
 .page {
     font-family: inter, Arial;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: #2A2C2F;
-    max-width: 100%;
-    overflow-x: hidden;
+    background: #2A2C2F; 
 }
