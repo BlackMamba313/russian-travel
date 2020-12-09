@@ -2,11 +2,11 @@
     margin: 92px auto;
     display: block;
     background-image: url(../../../images/cover-trains.jpg);
-    width: 92.5%;
+    width: 100%;
+    min-height: 740px;
     background-size: cover;
     background-position: center;
     text-decoration-line: none;
-    min-height: 57.8vw;
     box-sizing: border-box;
     position: relative;
 }
@@ -26,8 +26,8 @@
     opacity: 0.8;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1279px) {
     .cover__link {
-        width: 100%;
+        min-height: 62.5vw;
     }
 }

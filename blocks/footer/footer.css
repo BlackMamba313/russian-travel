@@ -5,16 +5,18 @@
     justify-content: space-between;
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:1023px) {
     .footer {
-        padding: 0 24px 24px 48px;
+        padding: 0 24px 24px 24px;
     }
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:767px) {
     .footer {
-        flex-wrap: nowrap;
-        flex-direction: column;
-        padding: 0 48px 24px 48px;
+        margin: 0;
+        row-gap: 48px;
+        max-width: 186px;
+        flex-wrap: wrap;
+        padding: 0 16px 24px 16px;
     }
 } 
