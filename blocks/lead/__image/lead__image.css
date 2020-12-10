@@ -24,7 +24,7 @@
     .lead__image {
         margin-top: 16px;
         padding: 0 2px;
-        width: calc(100%-4px);
+        width: calc(100% - 4px);
         object-fit: cover;
     }
 }
