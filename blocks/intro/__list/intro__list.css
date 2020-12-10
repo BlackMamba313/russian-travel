@@ -1,8 +1,18 @@
 .intro__list {
     list-style-type: none;
-    margin: 0;
+    margin: 34px 0 0 0;
     padding: 0;
     font-size: 12px;
     line-height: 18px;
     color: #FFFFFF;
+}
+
+.intro__list_bold {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 767px) {}
+    .intro__list {
+        margin-top: 34px;
+    }
 }

@@ -1,28 +1,18 @@
 .header {
-    margin: 0 48px;
+    margin: 0 auto;
+    padding: 28px 48px 0 48px;
     display: flex;
-    padding-top: 28px;
-    padding-bottom: 56px;
-    width: 92.5%;
     justify-content: space-between;
-    align-items: center;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1023px) {
     .header {
-        padding-bottom: 48px;
+        padding: 28px 24px 0 24px;
     }
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:767px) {
     .header {
-        margin: 0 24px;
-    }
-}
-
-@media screen and (max-width:320px) {
-    .header {
-        margin: 0 16px;
-        padding-top: 16px;
+        padding: 16px 16px 0 16px;
     }
 }
