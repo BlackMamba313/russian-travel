@@ -5,7 +5,7 @@
     grid-template-columns: 460px 484px;
     grid-template-rows:auto 1fr;
     column-gap: 40px;
-    row-gap: 48;
+    row-gap: 48px;
 }
 
 .place:last-of-type {

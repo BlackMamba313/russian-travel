@@ -1,5 +1,5 @@
 .footer__copyright {
-    display: inline;
+    min-width: 250px;
     margin: 0;
     font-weight: normal;
     font-size: 14px;
