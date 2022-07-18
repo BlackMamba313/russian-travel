@@ -1,7 +1,5 @@
 # Проект 3: Путешествие по России
 
-https://blackmamba313.github.io/russian-travel/
-
 ### Обзор
 * Интро
 * Figma
@@ -31,4 +29,6 @@ https://blackmamba313.github.io/russian-travel/
 Остаються проблемы с пониманием симантики в разметке но я стараюсь=)
 И поработать над резиновостью шрифтов
 
+
+Ссылка на демо https://blackmamba313.github.io/russian-travel/
 
